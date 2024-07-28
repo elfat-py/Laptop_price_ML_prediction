@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5f2c24a4-8875-4988-a5ec-9edcd756b5ab" name="Changes" comment="We are going to use a machine learning model to predict the laptop prices">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/MachineLearning.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jupyter-settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/main.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +72,11 @@
       <workItem from="1700132413271" duration="613000" />
       <workItem from="1700156484781" duration="3168000" />
       <workItem from="1700467679291" duration="4343000" />
-      <workItem from="1700472185929" duration="5614000" />
+      <workItem from="1700472185929" duration="6838000" />
+      <workItem from="1700496194219" duration="930000" />
+      <workItem from="1700652148116" duration="1287000" />
+      <workItem from="1700751509590" duration="72000" />
+      <workItem from="1701690068910" duration="38000" />
     </task>
     <task id="LOCAL-00001" summary="We are going to use a machine learning model to predict the laptop prices">
       <created>1697196615947</created>
